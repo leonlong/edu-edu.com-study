@@ -1,4 +1,4 @@
-# wuhan-timer.js 脚本解释文档
+# 真readme文档
 
 ## 1. 脚本用途
 
